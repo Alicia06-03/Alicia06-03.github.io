@@ -33,12 +33,6 @@ Update the `index.html` file to reflect your personal technical skillset. The te
 - **Data Modeling**: Power Query, DAX, Star Schema Design, etc.
 - **Tools**: List any other relevant tools like Power BI Service, specific cloud platforms, etc.
 
-## 💡 How to Use This Template
-
-Creating your own portfolio from this template is a simple, four-step process.
-
-### 1. Create a New Repository from this Template
-Click the green **"Use this template"** button at the top of this repository page, then select **"Create a new repository"**.
 
 ### 2. Name Your Repository for GitHub Pages
 This is the most important step. To turn your portfolio into a live website, you **must** name your new repository in the following format:
